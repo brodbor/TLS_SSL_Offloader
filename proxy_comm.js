@@ -9,7 +9,7 @@
       console.log(colors.bgGreen.black("XC9 API Server"))
 
 
-         var xconnurl ="xconn.medrecordsafe.com";
+         var xconnurl ="xxx";
          var sec = "password=b&username=sitecore\\admin&client_id=postman-api&grant_type=password&scope=openid EngineAPI postman_api";
          var xconnport = "5000";
 
