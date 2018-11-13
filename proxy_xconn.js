@@ -11,9 +11,9 @@ var http = require('http'),
 console.log(colors.bgGreen.black("xConnect/XC9 Server"))
 
 //Target xConnect Server
-var xconnurl ="xconn.medrecordsafe.com";
+var xconnurl ="xxxx";
 var xconnport = "8080";
-var xconncert ="C:/npm/CB9F9774D9894B5F60C171CA4AD0CF560CCAAD4D.pfx";
+var xconncert ="C:/npm/xxx.pfx";
 
 
 
